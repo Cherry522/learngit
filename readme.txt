@@ -1,3 +1,4 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-git remote add origin master
+git remote add origin master.
+test git ...
